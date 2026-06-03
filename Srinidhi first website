@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Srinidhi First Website</title>
+  <style>
+    body { 
+      font-family: Arial; 
+      background-color: #ffe6f2; 
+      text-align: center; 
+      padding: 50px;
+    }
+    .qualities {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      display: inline-block;
+      margin: 20px;
+    }
+    button {
+      background: #ff66a3;
+      color: white;
+      border: none;
+      padding: 15px 30px;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>Srinidhi's First Website</h1>
+  <p>Hi! I am Srinidhi. I study in 5th class.</p>
+  
+  <div class="qualities">
+    <h2>Best qualities of my sister Srinidhi</h2>
+    <p>She is kind, creative, and always ready to learn new things.</p>
+    <p>She is NOT like me - she has her own special talents!</p>
+  </div>
+  
+  <button>Click for a surprise</button>
+<img src="https://i.postimg.cc/P5mHMcXQ/IMG-20260603-WA0013.jpg" alt="Srinidhi" width="200"
+</body>
+</html>
